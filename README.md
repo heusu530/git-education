@@ -1,2 +1,2 @@
 # git-education
-git ������ �ǽ��Դϴ�.
+git 오늘은 실습입니다.
