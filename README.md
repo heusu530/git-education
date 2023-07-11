@@ -1,2 +1,3 @@
 # git-education
-git ìˆ˜ì—…ìžë£Œ
+git ?˜ì—…?ë£Œ
+¿À´ÃÀº ½Ç½ÀÀÔ´Ï´Ù
