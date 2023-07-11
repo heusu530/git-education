@@ -1,2 +1,2 @@
 # git-education
-docs.md ÆÄÀÏÀÔ´Ï´Ù.
+docs.md íŒŒì¼ì…ë‹ˆë‹¤.
